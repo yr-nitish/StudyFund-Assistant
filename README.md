@@ -1,6 +1,6 @@
 # StudyFund-Assistant
 
-This project is a Flask-based REST API for a fund assistant chatbot that helps students understand their loan options. It leverages AI models to provide personalized loan recommendations and maintain contextual conversations with students.
+StudyFund-Assistant is a Flask-based REST API designed to facilitate a fund assistance chatbot tailored for students. This chatbot helps students navigate through their loan options by providing personalized recommendations, answering their queries, and maintaining contextual conversations throughout multiple interactions. The system leverages advanced AI models, including Google Gemini, to analyze students' financial information and suggest the most suitable loan options based on their individual needs.
 
 ## Features
 
